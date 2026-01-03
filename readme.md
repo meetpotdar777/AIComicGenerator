@@ -19,11 +19,14 @@ A lightweight Java application that generates comic book art panels using AI. Th
 ### Installation
 1. Clone or download this project to your local machine.
 2. Navigate to the project directory:
+ 
    ```bash
    cd "C:\Users\Administrator\OneDrive\Desktop\Java Project\AIComicGenerator"
    ```
+   
    Running the Application
 Use the following Maven command to compile and run the project:
+
     ```bash
     mvn clean compile exec:java -Dexec.mainClass="AIComicGenerator"
     ```
