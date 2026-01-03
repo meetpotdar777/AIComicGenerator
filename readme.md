@@ -39,7 +39,7 @@ AIComicGenerator/
 │       └── java/
 │           └── AIComicGenerator.java   # Main source code
 ├── target/                             # Compiled files (auto-generated)
-|── LICENSE.txt                         # License information
+├──  LICENSE.txt                         # License information
 ├── pom.xml                             # Maven configuration
 └── README.md                           # Documentation
 ```
